@@ -2,10 +2,11 @@
 import os
 import sys
 
-os.system('git pull')
+
 # add the current dir to python path
 CURRENT_DIR = os.path.expanduser(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, CURRENT_DIR)
+os.system('cd %s ;git pull' % CURRENT_DIR)
 
 from app import app
 
