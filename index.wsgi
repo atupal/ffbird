@@ -13,4 +13,4 @@ if 'SERVER_SOFTWARE' in os.environ:
   import sae
   application = sae.create_wsgi_app(app)
 else:
-  app.run(host='0.0.0.0', debug=1)
+  app.run(host='0.0.0.0')
