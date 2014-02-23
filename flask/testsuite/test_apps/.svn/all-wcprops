@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps
+END
+flask_newext_simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/flask_newext_simple.py
+END
+importerror.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/importerror.py
+END
+main_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/main_app.py
+END
+config_module_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/config_module_app.py
+END

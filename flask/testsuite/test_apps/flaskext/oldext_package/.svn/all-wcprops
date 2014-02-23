@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/flaskext/oldext_package
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/flaskext/oldext_package/__init__.py
+END
+submodule.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ffbird/!svn/ver/3/1/flask/testsuite/test_apps/flaskext/oldext_package/submodule.py
+END

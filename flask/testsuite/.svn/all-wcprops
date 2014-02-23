@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/ffbird/!svn/ver/3/1/flask/testsuite
+END
+blueprints.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ffbird/!svn/ver/3/1/flask/testsuite/blueprints.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ffbird/!svn/ver/3/1/flask/testsuite/views.py
+END
+appctx.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ffbird/!svn/ver/3/1/flask/testsuite/appctx.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ffbird/!svn/ver/3/1/flask/testsuite/__init__.py
+END
+signals.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ffbird/!svn/ver/3/1/flask/testsuite/signals.py
+END
+ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ffbird/!svn/ver/3/1/flask/testsuite/ext.py
+END
+helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ffbird/!svn/ver/3/1/flask/testsuite/helpers.py
+END
+templating.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ffbird/!svn/ver/3/1/flask/testsuite/templating.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ffbird/!svn/ver/3/1/flask/testsuite/config.py
+END
+reqctx.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ffbird/!svn/ver/3/1/flask/testsuite/reqctx.py
+END
+testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ffbird/!svn/ver/3/1/flask/testsuite/testing.py
+END
+subclassing.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ffbird/!svn/ver/3/1/flask/testsuite/subclassing.py
+END
+examples.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ffbird/!svn/ver/3/1/flask/testsuite/examples.py
+END
+regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ffbird/!svn/ver/3/1/flask/testsuite/regression.py
+END
+deprecations.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ffbird/!svn/ver/3/1/flask/testsuite/deprecations.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ffbird/!svn/ver/3/1/flask/testsuite/basic.py
+END

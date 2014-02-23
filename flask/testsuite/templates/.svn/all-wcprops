@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ffbird/!svn/ver/3/1/flask/testsuite/templates
+END
+escaping_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/escaping_template.html
+END
+simple_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/simple_template.html
+END
+template_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/template_test.html
+END
+mail.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/mail.txt
+END
+context_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/context_template.html
+END
+_macro.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/_macro.html
+END
+template_filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ffbird/!svn/ver/3/1/flask/testsuite/templates/template_filter.html
+END
